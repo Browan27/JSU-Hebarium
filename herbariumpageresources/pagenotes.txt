@@ -1,0 +1,14 @@
+ #6f9861 dark green
+ #c4dcbc light green
+ 
+ from what i can see of the tutorial, the name of the inputs will probably need to be set to whatever the corresponding variable
+ in the java file(s) controlling this stuff is, with those variables working with java's sql stuff to input data into the correct
+ fields in an entry
+ 
+ how to css:
+ <style>
+        #element1 {
+            display: inline-block;
+            width: 1000px;
+        }
+    </style>
