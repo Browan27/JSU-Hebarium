@@ -68,6 +68,7 @@
             &emsp;&emsp;&emsp;&emsp;&emsp;Rank&nbsp;</font>
             <textarea name="Rank" rows="1" cols="40" style="float: left">
             </textarea>
+            <input type="submit" value="&emsp;&emsp;&emsp;&emsp;&ensp;IPNI&emsp;&emsp;&emsp;&emsp;&ensp;" name="IPNI" style="float:right" />
         </div>
         <div class="center">
             <br>
@@ -78,6 +79,7 @@
             &emsp;&emsp;&emsp;&emsp;&emsp;Infraspecies&nbsp;&nbsp;</font>
             <textarea name="Infraspecies" rows="1" cols="34" style="float: left">
             </textarea>
+            <input type="submit" value="&emsp;&emsp;&emsp;&nbsp;Tropicos&emsp;&emsp;&emsp;&ensp;" name="Tropicos" style="float:right" />
         </div>
         <div class="center">
             <br>
@@ -88,6 +90,7 @@
             &emsp;&emsp;&emsp;&emsp;&emsp;Infrasp. Author 1&nbsp;</font>
             <textarea name="Infrasp. Author 1" rows="1" cols="30" style="float: left">
             </textarea>
+            <input type="submit" value="&emsp;&emsp;&emsp;&emsp;USDA&emsp;&emsp;&emsp;&emsp;" name="USDA" style="float:right" />
         </div>
         <div class="center">
             <br>
@@ -98,6 +101,7 @@
             &emsp;&emsp;&emsp;&emsp;&emsp;Infrasp. Author 2&nbsp;</font>
             <textarea name="Infrasp. Author 2" rows="1" cols="30" style="float: left">
             </textarea>
+            <input type="submit" value="&emsp;&emsp;&emsp;Wikipedia&emsp;&emsp;&emsp;&nbsp;" name="Wikipedia" style="float:right" />
         </div>
         <div class="center">
             <br>
@@ -108,6 +112,7 @@
             &emsp;&emsp;&emsp;&emsp;&emsp;Division&nbsp;</font>
             <textarea name="Division" rows="1" cols="37" style="float: left">
             </textarea>
+            <input type="submit" value="&emsp;&emsp;Google Images&emsp;&emsp;" name="Google Images" style="float:right" />
         </div>
         <div class="center">
             <br>
@@ -133,6 +138,7 @@
             &emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;Common Names&nbsp;</font>
             <textarea name="Common Names" rows="4" cols="33" style="float: left">
             </textarea>
+            <input type="submit" value="&emsp;&emsp;&emsp;&emsp;&nbsp;APA&emsp;&emsp;&emsp;&emsp;" name="APA" style="float:right" />
         </div>
         <div class="center">
             <br>
@@ -143,6 +149,7 @@
             &emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;Habitat&nbsp;</font>
             <textarea name="Habitat" rows="4" cols="39" style="float: left">
             </textarea>
+            <input type="submit" value="&emsp;&emsp;&ensp;&nbsp;GeoLocate&emsp;&emsp;&ensp;" name="GeoLocate" style="float:right" />
         </div>
         <div class="center">
             <br>
@@ -157,6 +164,7 @@
             <font size="3" style="float: left">&emsp;Reproductive State 1&nbsp;</font>
             <textarea name="Reproductive State 1" rows="1" cols="39" style="float: left">
             </textarea>
+            <input type="submit" value="&emsp;&emsp;&emsp;&emsp;&nbsp;Map&emsp;&emsp;&emsp;&emsp;" name="Map" style="float:right" />
         </div><div class="center">
             <br>
             <form name="Longitude" action="" style="float: left">
@@ -218,6 +226,13 @@
             <font size="3" style="float: left">Curatorial Notes&nbsp;</font>
             <textarea name="Curatorial Notes" rows="4" cols="99" style="float: left">
             </textarea>
+        </div>
+        <div class="center">
+            <br>
+            <input type="submit" value="&emsp;New Record&emsp;" name="New Record" style="float: left"/>
+            <input type="submit" value="&emsp;Delete Record&emsp;" name="Delete Record" />
+            <input type="submit" value="&emsp;Export To Excel&emsp;" name="Export To Exce" />
+            <input type="submit" value="&emsp;Exit&emsp;" name="Exit" />
         </div>
     </body>
 </html>
